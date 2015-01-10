@@ -18,7 +18,7 @@ public class BowlerArm {
     private Jaguar ramp1;
     private Jaguar ramp2;
     private DoubleSolenoid arm;
-    private final int JAG_PORT_1 = 5;
+    private final int JAG_PORT_1 = 5; //Changed to a variable for readability and efficiency in editing
     private final int JAG_PORT_2 = 6;
 
     private final int ARM_FORWARD_PORT = 1; //orig 0; corrected to 1

@@ -26,8 +26,8 @@ public class BowlerArm {
     private final double RAMP_SPEED_UP = -0.75;
     private final double RAMP_SPEED_DOWN = 0.25;
 
-    private final long RAMP_WAIT = 1000;
-    private final long ARM_WAIT = 10;
+    private final long RAMP_WAIT = 1000;//1 second
+    private final long ARM_WAIT = 10;//0.01 seconds
 
     public BowlerArm() {
         ramp1 = new Jaguar(JAG_PORT_1);

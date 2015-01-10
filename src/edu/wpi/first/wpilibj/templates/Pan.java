@@ -43,6 +43,10 @@ public class Pan {
     public void resetServo(){
         walls.set(1); //servo resets for next time //changed from 0 to 1
     }
+    public void happyness(){
+    	happyness();
+    }
+    }
     
   
 }

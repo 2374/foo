@@ -45,6 +45,7 @@ public class Drivetrain {
         bright.set(rspeed);
         
     }
+    
   /*  public void setLeftSpeed(double speed){
         jags[0].set(speed);
         jags[2].set(speed);

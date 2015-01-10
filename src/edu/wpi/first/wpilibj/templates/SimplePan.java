@@ -30,6 +30,8 @@ public class SimplePan {
         walls.set(0);
     }
     
+    
+    
     /*THIS IS DEAN'S ARBITRARY CHANGE HE WAS ASKED TO MAKE BECAUSE REASONS!
               ____         ____
              /    \       |    |
